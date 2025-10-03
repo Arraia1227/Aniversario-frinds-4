@@ -13,9 +13,10 @@ body {
     position: absolute;
     top: 20px;
     left: 30px;
-    width: 125px;
+    width: 90px;
     height: auto;
     right: 100%;
+    border-radius: 50%;
 }
 
 /* --- Estilo do Perfil (Seção de cima) --- */

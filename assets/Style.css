@@ -16,8 +16,9 @@
         position: absolute;
         top: 20px;
         left: 30px;
-        width: 125px;
+        width: 90px;
         height: auto;
+        border-radius: 50%;
     }
 
     .container {
